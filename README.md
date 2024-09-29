@@ -1,7 +1,3 @@
-Share
-
-Pk
-You said:
 # 👋 Hi, I’m @Petras Guilherme Kulyumba
 
 ## 👀 About Me
@@ -45,66 +41,7 @@ Here are a few projects and labs showcasing my cybersecurity and web development
 - **Cyber Resilience Assessment** [GitHub link to Project](#)
 
 ## 📫 How to reach me:
-[Email:petrascybersec@gmail.com
-Contact:+971503258953]
+Email:
 
 ## 😄 Pronouns:
-[She/Her]. check if anything is right , correct and give the right output
-ChatGPT said:
-ChatGPT
-It looks like you've got most of your profile set up correctly! I'll make a few suggestions and adjustments for clarity, formatting, and consistency:
-
-👋 Hi, I’m Petras Guilherme Kulyumba
-👀 About Me
-I’m a Certified Cybersecurity Professional with 2 years of experience in ethical hacking and lab simulations. Passionate about both cybersecurity and web development, I combine these fields to deliver secure, high-quality digital solutions.
-
-🌱 Objective
-I am focused on advancing my skills in cybersecurity and web development, aiming to contribute to impactful projects that reinforce security architectures and protect against cyber threats. My long-term goal is to become a Chief Information Security Officer (CISO) while continuously learning and growing in the field.
-
-💻 Skills
-Ethical Hacking
-Penetration Testing
-Network Security
-Web Development (HTML, CSS, JavaScript, Python)
-Vulnerability Assessment
-Cyber Resilience
-Software Engineering
-🏅 Certifications
-CompTIA Security+
-
-Certified Ethical Hacker (CEH)
-
-Python Development
-
-Web Development
-
-Cyber Resilience
-
-Software Engineering
-
-🛠 Tools
-Kali Linux
-Wireshark
-Metasploit
-Burp Suite
-OWASP ZAP
-Visual Studio Code
-GitHub
-📁 Projects and Labs
-Here are a few projects and labs showcasing my cybersecurity and web development work:
-
-Penetration Testing Lab
-GitHub Link to Project
-Network Security Simulation
-GitHub Link to Project
-Web Vulnerability Assessment Tool
-GitHub Link to Project
-Python-Based Web Application
-GitHub Link to Project
-Cyber Resilience Assessment
-GitHub Link to Project
-📫 How to reach me:
-Email: petrascybersec@gmail.com
-Contact: +971503258953
-😄 Pronouns:
 she/her
