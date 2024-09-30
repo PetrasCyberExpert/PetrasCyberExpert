@@ -41,7 +41,8 @@ Here are a few projects and labs showcasing my cybersecurity and web development
 - **Cyber Resilience Assessment** [GitHub link to Project](#)
 
 ## 📫 How to reach me:
-Email:
+Email: petrasec2024@gmail.com
+Contact:+971503258953
 
 ## 😄 Pronouns:
 she/her
