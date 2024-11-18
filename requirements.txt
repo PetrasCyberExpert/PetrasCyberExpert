@@ -1,0 +1,8 @@
+#Here are the documents that we are going to use to create the documents in the dataset.
+pandas
+numpy
+matplotlib
+scikit-learn
+
+
+
