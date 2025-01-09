@@ -33,7 +33,7 @@ Evaluation Metrics
 Performance metrics like accuracy, precision, and recall are measured for comprehensive analysis.
 
 Visualizations
-Graphs and charts provide a clear understanding of algorithm performance.
+charts provide a clear understanding of algorithm performance.
 
 Scientific Documentation
 A research paper is included to document the methodology, experiments, and findings.
